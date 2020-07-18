@@ -1,3 +1,5 @@
 this is thirdFile.txt first line.
 Second line.
 third line changed in master.
+Third line.
+
